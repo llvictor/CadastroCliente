@@ -1,0 +1,15 @@
+D:\Crmall\CadastroClientes.Dados\bin\Debug\netcoreapp3.1\CadastroClientes.Dados.deps.json
+D:\Crmall\CadastroClientes.Dados\bin\Debug\netcoreapp3.1\CadastroClientes.Dados.dll
+D:\Crmall\CadastroClientes.Dados\bin\Debug\netcoreapp3.1\CadastroClientes.Dados.pdb
+D:\Crmall\CadastroClientes.Dados\bin\Debug\netcoreapp3.1\CadastroClientes.Dominio.dll
+D:\Crmall\CadastroClientes.Dados\bin\Debug\netcoreapp3.1\CadastroClientes.Dominio.pdb
+D:\Crmall\CadastroClientes.Dados\obj\Debug\netcoreapp3.1\CadastroClientes.Dados.csprojAssemblyReference.cache
+D:\Crmall\CadastroClientes.Dados\obj\Debug\netcoreapp3.1\CadastroClientes.Dados.AssemblyInfoInputs.cache
+D:\Crmall\CadastroClientes.Dados\obj\Debug\netcoreapp3.1\CadastroClientes.Dados.AssemblyInfo.cs
+D:\Crmall\CadastroClientes.Dados\obj\Debug\netcoreapp3.1\CadastroClientes.Dados.csproj.CopyComplete
+D:\Crmall\CadastroClientes.Dados\obj\Debug\netcoreapp3.1\CadastroClientes.Dados.dll
+D:\Crmall\CadastroClientes.Dados\obj\Debug\netcoreapp3.1\CadastroClientes.Dados.pdb
+D:\Crmall\CadastroClientes.Dados\bin\Debug\netcoreapp3.1\CadastroClientes.Dados.runtimeconfig.json
+D:\Crmall\CadastroClientes.Dados\bin\Debug\netcoreapp3.1\CadastroClientes.Dados.runtimeconfig.dev.json
+D:\Crmall\CadastroClientes.Dados\obj\Debug\netcoreapp3.1\CadastroClientes.Dados.csproj.CoreCompileInputs.cache
+D:\Crmall\CadastroClientes.Dados\obj\Debug\netcoreapp3.1\CadastroClientes.Dados.genruntimeconfig.cache
