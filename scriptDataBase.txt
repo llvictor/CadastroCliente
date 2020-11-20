@@ -1,1 +1,5 @@
+Script para criação da base de dados utilizada na aplicação:
+
+********************************
 CREATE DATABASE crmall;
+********************************
